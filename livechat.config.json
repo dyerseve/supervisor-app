@@ -1,4 +1,6 @@
 {
     "appId": "2wZOSLuVR",
-    "auth": {}
+    "auth": {
+        "clientId": "9077bce40cad1ab3da07ed17568ae280"
+    }
 }
